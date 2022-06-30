@@ -6,11 +6,7 @@ this project uses these dependencies:
  - flutter_svg: ^1.1.1
  - transformer_page_view: ^0.1.6
 ## UI:
-
-![alt text](https://github.com/Scirlix/Weather-Application-UI-only/blob/main/1.png?raw=true?)
-
-![alt text](https://github.com/Scirlix/Weather-Application-UI-only/blob/main/2.png?raw=true)
-
-![alt text](https://github.com/Scirlix/Weather-Application-UI-only/blob/main/3.png?raw=true)
-
-![alt text](https://github.com/Scirlix/Weather-Application-UI-only/blob/main/4.png?raw=true)
+<img src="/1.png" width="300" >
+<img src="/2.png" width="300" >
+<img src="/3.png" width="300" >
+<img src="/4.png" width="300" >
